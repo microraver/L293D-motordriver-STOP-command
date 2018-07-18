@@ -77,7 +77,7 @@ pinMode(motor2[i], OUTPUT);
   
   LCD.write(254);
   LCD.write(192);
-  LCD.write("FWD-RVS-STP-SPD");
+  LCD.write("FWD-REV-STP-SPD");
   
   delay(2500);
   
